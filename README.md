@@ -1,4 +1,4 @@
-# 💇 HairWise
+# 💇 Hairex
 ## GEN AI: Hair Recommendation System using CNN + LLM
 
 HairWise is an intelligent hair recommendation system that analyzes facial features using deep learning and provides personalized hairstyle recommendations. It combines dual CNN models for face analysis with an LLM (LLaMA-Scout) to generate context-aware and explainable suggestions.
