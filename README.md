@@ -7,7 +7,7 @@ HairWise is an intelligent hair recommendation system that analyzes facial featu
 
 ## 🌐 Live Demo
 🚀 **Powered by CNN + LLaMA-Scout**  
-🔗 *Add your Hugging Face / deployment link here*
+🔗 https://enoch1359-hairex.hf.space/
 
 ---
 
